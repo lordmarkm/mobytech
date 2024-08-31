@@ -32,7 +32,7 @@
   <@crafter.head/>
 </head>
 <body>
-  <@crafter.body_top/>
+
   <div id="catalog" class="container" v-cloak>
     <div class="row">
       <div class="page-header">
